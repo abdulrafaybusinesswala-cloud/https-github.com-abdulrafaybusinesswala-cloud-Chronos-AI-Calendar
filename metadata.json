@@ -1,0 +1,5 @@
+{
+  "name": "Chronos AI Calendar",
+  "description": "A smart calendar application that allows users to add events using natural language powered by Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
